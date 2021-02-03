@@ -1,7 +1,5 @@
 
-*.csv
-*.txt
-*.xlsx
 *.png
 *.jpg
 *.jpeg
+transactions.csv
