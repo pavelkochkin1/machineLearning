@@ -2,4 +2,8 @@
 *.png
 *.jpg
 *.jpeg
+*.tmp 
+*.gz
+*.txt
+*.jsonl
 transactions.csv
